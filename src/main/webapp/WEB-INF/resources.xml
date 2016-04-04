@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="taxidb" type="javax.sql.DataSource">#Mon Apr 04 17:58:03 EEST 2016
+jdbcDriver=org.apache.derby.jdbc.ClientDriver
+password=zabawa56
+userName=Vies
+jdbcUrl=jdbc\:derby\://localhost\:1527/taxi
+</Resource>
+</resources>
